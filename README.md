@@ -83,6 +83,7 @@ Este repositório reúne projetos e softwares desenvolvidos com foco em automaç
 
 ## 🌐 Websites Desenvolvidos
 
+- [correiosencomenda.com.br](http://correiosencomenda.com.br)
 - [sergipenses.com.br](http://sergipenses.com.br)  
 - [guiatvprogramacao.online](https://guiatvprogramacao.online/)  
 - [roletadefilmes.com.br](https://roletadefilmes.com.br/)  
